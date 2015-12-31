@@ -1,0 +1,15 @@
+{
+  "name": "blink-sync-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rileyjshaw <i@rileyjshaw.com> (http://rileyjshaw.com)",
+  "license": "ISC",
+  "dependencies": {
+    "batch": "^0.5.2",
+    "groove": "^2.2.7"
+  }
+}
